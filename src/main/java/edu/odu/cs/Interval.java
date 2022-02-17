@@ -1,4 +1,4 @@
-//  This is from main
+// This is from main
 package edu.odu.cs;
 
 import java.util.NoSuchElementException;
